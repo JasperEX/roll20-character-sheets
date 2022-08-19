@@ -4,6 +4,9 @@ This is a character sheet for use on Roll20.net with the latest (5th) edition of
 
 ### Changelog
 
+# v1.2.0 - 19 August 2022
+Added Artificer Class to Class and Spellbook pages. Added Halfing Luck checkbox to Core Page. Added more class actions. Added more weapon slots. Slight QOL in spell (Spell Info and Description come pre-checked now) by user:jasperex
+
 # v1.1.5 - 10th March 2018
 Partial 5e compendium support added for monsters by user:darmes
 
